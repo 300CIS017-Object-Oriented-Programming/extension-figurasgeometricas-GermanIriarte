@@ -9,7 +9,8 @@
 #include "../Model/Cuadrado.h"
 #include "../Model/Rectangulo.h"
 #include "../Model/Rombo.h"
-#include "../Model/FiguraGeometrica.h"
+#include "../model/FiguraGeometrica.h"
+#include "../model/Triangulo.h"
 
 class Programa {
 private:
